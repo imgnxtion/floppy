@@ -14,28 +14,28 @@ A lightweight command-line utility for macOS that copies file contents (ASCI## H
 ### Copy text file content
 
 ```bash
-metacopy ~/scripts/build.sh
+meta ~/scripts/build.sh
 # The content of build.sh is now in clipboard
 ```
 
 ### Copy binary file for pasting
 
 ```bash
-metacopy ~/images/logo.png
+meta ~/images/logo.png
 # File reference copied - paste into X.com, email, etc. as the actual file
 ```
 
 ### Copy directory structure content (meta)
 
 ```bash
-metacopy ~/myapp
+meta ~/myapp
 # Directory structure content (tree output) copied to clipboard - the "meta" of the layout
 ```
 
 ### Paste directory structure
 
 ```bash
-metacopy -p ~/newapp
+meta -p ~/newapp
 # Recreates the directory structure from clipboard
 ```
 
@@ -43,7 +43,7 @@ metacopy -p ~/newapp
 
 ```bash
 echo "Hello World" | pbcopy
-metacopy -p ~/hello.txt
+meta -p ~/hello.txt
 # Creates hello.txt with "Hello World" content
 ``` or directory **structure content** (the "meta" layout) to/from the clipboard. For binary files, it copies the file reference for pasting as a file.
 
@@ -51,7 +51,7 @@ metacopy -p ~/hello.txt
 
 ## Overview
 
-`metacopy` enables seamless copying and pasting of file **contents** or directory **structure content** (the "meta" layout) via the clipboard:
+`meta` enables seamless copying and pasting of file **contents** or directory **structure content** (the "meta" layout) via the clipboard:
 
 - **Text Files**: Copies the file's **content** (ASCII text) to clipboard
 - **Binary Files**: Copies the file reference for pasting as the actual file
