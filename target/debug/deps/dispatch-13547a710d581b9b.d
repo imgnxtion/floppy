@@ -1,0 +1,10 @@
+/Users/donaldmoore/src/floppy/target/debug/deps/dispatch-13547a710d581b9b.d: /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/lib.rs /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/ffi.rs /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/group.rs /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/queue.rs /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/once.rs /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/sem.rs
+
+/Users/donaldmoore/src/floppy/target/debug/deps/libdispatch-13547a710d581b9b.rmeta: /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/lib.rs /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/ffi.rs /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/group.rs /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/queue.rs /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/once.rs /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/sem.rs
+
+/Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/lib.rs:
+/Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/ffi.rs:
+/Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/group.rs:
+/Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/queue.rs:
+/Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/once.rs:
+/Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/dispatch-0.2.0/src/sem.rs:

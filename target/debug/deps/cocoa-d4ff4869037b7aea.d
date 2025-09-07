@@ -1,0 +1,10 @@
+/Users/donaldmoore/src/floppy/target/debug/deps/cocoa-d4ff4869037b7aea.d: /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cocoa-0.24.1/src/lib.rs /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cocoa-0.24.1/src/appkit.rs /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cocoa-0.24.1/src/base.rs /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cocoa-0.24.1/src/foundation.rs /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cocoa-0.24.1/src/quartzcore.rs /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cocoa-0.24.1/src/macros.rs
+
+/Users/donaldmoore/src/floppy/target/debug/deps/libcocoa-d4ff4869037b7aea.rmeta: /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cocoa-0.24.1/src/lib.rs /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cocoa-0.24.1/src/appkit.rs /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cocoa-0.24.1/src/base.rs /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cocoa-0.24.1/src/foundation.rs /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cocoa-0.24.1/src/quartzcore.rs /Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cocoa-0.24.1/src/macros.rs
+
+/Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cocoa-0.24.1/src/lib.rs:
+/Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cocoa-0.24.1/src/appkit.rs:
+/Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cocoa-0.24.1/src/base.rs:
+/Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cocoa-0.24.1/src/foundation.rs:
+/Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cocoa-0.24.1/src/quartzcore.rs:
+/Users/donaldmoore/.local/share/cargo/registry/src/index.crates.io-1949cf8c6b5b557f/cocoa-0.24.1/src/macros.rs:

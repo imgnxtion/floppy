@@ -1,4 +1,0 @@
-TODO_DIR="/Users/donaldmoore/src/maketree/.todo"
-TODO_FILE="$TODO_DIR/todo.txt"
-REPORT_FILE="$TODO_DIR/report.txt"
-TODO_ACTIONS_DIR=""
