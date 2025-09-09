@@ -5,22 +5,41 @@ edition = "2021"
 
 [dependencies]
 clap = { version = "4.0", features = ["derive"] }
-wry = "0.24"
-winit = "0.28"
-tokio = { version = "1.0", features = ["full"] }
-serde = { version = "1.0", features = ["derive"] }
-serde_json = "1.0"
-objc = "0.2"
-cocoa = "0.24"
-core-foundation = "0.9"
+# GUI-only deps are optional and enabled by the `gui` feature.
+wry = { version = "0.24", optional = true }
+winit = { version = "0.28", optional = true }
+tokio = { version = "1.0", features = ["full"], optional = true }
+serde = { version = "1.0", features = ["derive"], optional = true }
+serde_json = { version = "1.0", optional = true }
+objc = { version = "0.2", optional = true }
+cocoa = { version = "0.24", optional = true }
+core-foundation = { version = "0.9", optional = true }
 
 [workspace]
+
+[features]
+# Build just the CLI by default.
+default = ["cli"]
+cli = []
+gui = [
+  # Pull in GUI deps only when requested
+  "dep:wry",
+  "dep:winit",
+  "dep:tokio",
+  "dep:serde",
+  "dep:serde_json",
+  "dep:objc",
+  "dep:cocoa",
+  "dep:core-foundation",
+]
 
 [[bin]]
 name = "meta"
 path = "src/main.rs"
+required-features = ["cli"]
 
 [[bin]]
 name = "meta-gui"
 path = "src/gui.rs"
+required-features = ["gui"]
                                                                                                                                                                                                                                                                                                                                                                                     
